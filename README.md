@@ -27,3 +27,6 @@ Big data system allowed SyriaTel Company to collect, store, process, aggregate t
 We believe that big data facilitated the process of feature engineering which is one of the most difficult and complex processes in building predictive models. By using the big data platform, we give the power to SyriaTel company to go farther with big data sources. In addition, the company becomes able to extract the Social Network Analysis features from a big scale social graph which is built from billions of edges (transactions) that connect millions of nodes (customers). The hardware and the design of the big data platform illustrated in “Proposed churn method” section fit the need to compute these features regardless of their complexity on this big scale graph.
 
 The model also was evaluated using a new dataset and the impact of this system to the decision to churn was tested. The model gave good results and was deployed to production.
+
+## Dataset
+/kaggle/input/credit-card-customer-churn-prediction/Churn_Modelling.csv
